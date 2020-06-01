@@ -8,3 +8,4 @@ Captura
 Es  el  menu  principal del  proyecto.
 
 ![imagen0](https://user-images.githubusercontent.com/54046238/83374019-508d1080-a398-11ea-9d1d-cbfefcd4f0b5.png)
+
