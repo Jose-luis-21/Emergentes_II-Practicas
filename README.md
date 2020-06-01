@@ -18,3 +18,7 @@ Captura
 
 ![imagen2](https://user-images.githubusercontent.com/54046238/83374889-f8a3d900-a39a-11ea-81d2-998e95ca4867.png)
 
+## Formulario de Registro de usuarios
+
+![imagen3](https://user-images.githubusercontent.com/54046238/83375635-7a950180-a39d-11ea-8097-4d009ecc14f9.png)
+
