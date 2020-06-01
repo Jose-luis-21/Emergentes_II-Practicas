@@ -2,4 +2,4 @@
 Java Web - Modelo Vista Controlador
 Captura 
 ----
-![Captura] (imagen0.png)
+![Captura] (/imagen0.png)
