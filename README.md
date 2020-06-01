@@ -1,2 +1,3 @@
-# Emergentes_II-Practicas
-Este repositorio es para alojar practicas de NetBeans con base de datos
+# Emergentes_II PRACTICA No. 3
+Java Web - Modelo Vista Controlador
+
