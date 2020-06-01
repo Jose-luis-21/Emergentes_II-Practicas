@@ -34,3 +34,7 @@ Captura
 
 ![imagen6](https://user-images.githubusercontent.com/54046238/83375886-6998c000-a39e-11ea-86b4-b5ff4f3eb75c.png)
 
+## Formulario Registro de Libros
+
+![imagen7](https://user-images.githubusercontent.com/54046238/83375976-bc727780-a39e-11ea-9546-505096ce61bf.png)
+
