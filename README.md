@@ -26,3 +26,7 @@ Captura
 
 ![imagen4](https://user-images.githubusercontent.com/54046238/83375750-e9725a80-a39d-11ea-918f-efbd5c24c6f1.png)
 
+## Formulario Registro de productos
+
+![imagen5](https://user-images.githubusercontent.com/54046238/83375822-276f7e80-a39e-11ea-909d-4d0e29689175.png)
+
