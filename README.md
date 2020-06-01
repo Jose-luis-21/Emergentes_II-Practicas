@@ -38,3 +38,7 @@ Captura
 
 ![imagen7](https://user-images.githubusercontent.com/54046238/83375976-bc727780-a39e-11ea-9546-505096ce61bf.png)
 
+## Datos recibidos
+
+![imagen8](https://user-images.githubusercontent.com/54046238/83376054-f6dc1480-a39e-11ea-8e4a-80198dce759f.png)
+
